@@ -1,10 +1,10 @@
-# Context Engineering Implementation
+# Context Engineering Implementation Reference Scaffold
 
-Execution and tooling source for Context Engineering.
+Public reference scaffold for Context Engineering implementation.
 
 ## Purpose
 
-This repository owns implementation mechanics for agent/repo operations, including scripts, generators, and operational workflows.
+This repository preserves a public reference copy of the implementation mechanics for agent/repo operations, including scripts, generators, and operational workflows.
 
 Normative dependency direction:
 
@@ -38,7 +38,12 @@ Boundary drift is enforced by CI in:
 
 ## Authority Boundary
 
-This repository is not the governance authority source. Governance policy decisions, approval rules, and protected-path definitions are authoritative in:
+This repository is a public, non-authoritative reference scaffold.
+The authoritative implementation/tooling source for the Josh-Phillips-LLC org lives in:
+
+- `Josh-Phillips-LLC/context-engineering-implementation`
+
+Governance policy decisions, approval rules, and protected-path definitions are authoritative in:
 
 - `Josh-Phillips-LLC/context-engineering-governance`
 

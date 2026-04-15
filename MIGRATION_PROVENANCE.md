@@ -12,4 +12,4 @@ Initial implementation bootstrap performed from:
 
 - Execution/tooling artifacts were copied with minimal transformation.
 - Governance-authoritative policy docs were intentionally excluded from this repository.
-- Governance policy authority is externalized to `context-engineering-governance`.
+- This repository now serves as a public reference scaffold. The authoritative implementation source lives in `Josh-Phillips-LLC/context-engineering-implementation`, and governance authority is externalized to `Josh-Phillips-LLC/context-engineering-governance`.
